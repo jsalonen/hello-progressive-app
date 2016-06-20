@@ -13,5 +13,5 @@ import { APP_SHELL_DIRECTIVES } from '@angular/app-shell';
   directives: [APP_SHELL_DIRECTIVES]
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'Demo1';
 }
